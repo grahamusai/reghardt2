@@ -10,10 +10,9 @@ function Hero() {
     <div className="grid min-h-screen px-8">
       <div className="container relative z-10 my-auto mx-auto grid place-items-center text-center">
         <h3  className="mb-2 text-white text-lg font-semibold">
-          Reghardt
         </h3>
         <h1  className="lg:max-w-3xl text-[40px] leading-none mt-2 text-white font-bold">
-          Lorem ipsum dolor sit amet consectetur.
+          Welcome to Reghardt Center.
         </h1>
         <h2
           className="mt-2 mb-12 w-full md:max-w-full lg:max-w-2xl text-white"

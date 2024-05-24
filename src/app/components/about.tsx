@@ -16,7 +16,7 @@ const About = () => {
       </p>
 
       <div className="flex mx-24 text-white text-center mt-5 gap-10">
-        <div className="w-1/2 bg-blue-gray-900 px-12 py-16 rounded-lg">
+        <div className="w-full md:w-1/2 bg-blue-gray-900 px-12 py-16 rounded-lg">
           <h2 className="">Presentation</h2>
           <h3 className="text-2xl font-bold mb-3">Lorem Ipsum Dolor</h3>
           <p className="px-10">
@@ -27,7 +27,7 @@ const About = () => {
             View Details
           </button>
         </div>
-        <div className="w-1/2 bg-blue-gray-900 px-12 py-16 rounded-lg">
+        <div className="w-full md:w-1/2 bg-blue-gray-900 px-12 py-16 rounded-lg">
           <h2 className="">Presentation</h2>
           <h3 className="text-2xl font-bold mb-3">Lorem Ipsum Dolor</h3>
           <p className="px-10">
